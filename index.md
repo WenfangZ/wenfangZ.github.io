@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h1>Name：Wenfang Zhu  </h1>
       <p><b>Gender: Female</b></p>
       <p><b>Education: Graduate</b></p>
@@ -11,8 +11,19 @@
       <p><b>Interests: Music, sports, books
 </b></p>
     </td>
-    <td width="25%">
-      <img src="/Wenfang.jpg" width="100%">      % 插入证件照代码
+    
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td heigth="10%">
+      <h1>This is my beautiful school  </h1>
+     
+</b></p>
+    </td>
+    <td heigth="90%">
+      <img src="/school.jpg" width="90%">      
     </td>
   </tr>
 </table>
