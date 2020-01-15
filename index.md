@@ -1,9 +1,12 @@
-## wenfangfang' personal homepage
+## Wenfangfang' personal homepage
 
 ### Name：Wenfang Zhu 
+
 ### Gender: female 
 
 ### Education: postgraduate
+
+### School: Nanjing University of Science and Technology
 
 ### Major: computer technology
 
@@ -11,4 +14,4 @@
 
 ### Mail：zwf.ang@njust.edu.cn
 
-Interests: music, sports, books
+### Interests: music, sports, books
