@@ -2,16 +2,16 @@
 
 ### Name：Wenfang Zhu 
 
-### Gender: female 
+### Gender: Female 
 
-### Education: postgraduate
+### Education: Graduate
 
 ### School: Nanjing University of Science and Technology
 
-### Major: computer technology
+### Major: Computer technology
 
-### Research direction: machine learning, multi-label learning, label enhancement
+### Research direction: Machine learning, multi-label learning, label enhancement
 
 ### Mail：zwf.ang@njust.edu.cn
 
-### Interests: music, sports, books
+### Interests: Music, sports, books
