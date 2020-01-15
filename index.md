@@ -12,7 +12,7 @@
 </b></p>
     </td>
     <td width="25%">
-      <img src="/wenfang.jpg" width="100%">      % 插入证件照代码
+      <img src="/Wenfang.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
